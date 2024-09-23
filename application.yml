@@ -2,5 +2,5 @@ app:
   name: MyApp
   version: 1.0
   features:
-    enableFeatureX: false
+    enableFeatureX: true
     enableFeatureY: true
