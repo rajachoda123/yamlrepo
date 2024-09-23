@@ -3,4 +3,4 @@ app:
   version: 1.0
   features:
     enableFeatureX: true
-    enableFeatureY: false
+    enableFeatureY: true
